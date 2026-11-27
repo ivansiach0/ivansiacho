@@ -1,0 +1,124 @@
+{
+  "art": {
+    "h": 703,
+    "w": 1280,
+    "x": 0,
+    "y": 97
+  },
+  "surfaces": [
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(243, 244, 237)",
+      "rect": {
+        "h": 40,
+        "w": 145.6015625,
+        "x": 64,
+        "y": 28
+      },
+      "text": "IVANSIACHOQUE"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(243, 244, 237)",
+      "rect": {
+        "h": 32.5,
+        "w": 91.6015625,
+        "x": 118,
+        "y": 31.75
+      },
+      "text": "IVANSIACHOQUE"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(186, 197, 202)",
+      "rect": {
+        "h": 48,
+        "w": 109.828125,
+        "x": 802.171875,
+        "y": 24
+      },
+      "text": "Skip animation"
+    },
+    {
+      "background": "rgb(213, 233, 185)",
+      "color": "rgb(10, 18, 26)",
+      "rect": {
+        "h": 48,
+        "w": 140,
+        "x": 924,
+        "y": 24
+      },
+      "text": "Get in touch"
+    },
+    {
+      "background": "rgb(10, 18, 26)",
+      "color": "rgb(243, 244, 237)",
+      "rect": {
+        "h": 48,
+        "w": 140,
+        "x": 1076,
+        "y": 24
+      },
+      "text": "LinkedIn"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(213, 233, 185)",
+      "rect": {
+        "h": 22.3984375,
+        "w": 1152,
+        "x": 64,
+        "y": 202.0234375
+      },
+      "text": "Senior Frontend Engineer · UI & Motion"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(243, 244, 237)",
+      "rect": {
+        "h": 226.453125,
+        "w": 1152,
+        "x": 57.171875,
+        "y": 248.421875
+      },
+      "text": "Ivan Siachoque"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(213, 233, 185)",
+      "rect": {
+        "h": 141,
+        "w": 496.8203125,
+        "x": 57.171875,
+        "y": 346.8984375
+      },
+      "text": "Siachoque"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(243, 244, 237)",
+      "rect": {
+        "h": 76.09375,
+        "w": 560,
+        "x": 64,
+        "y": 506.875
+      },
+      "text": "I build thoughtful interfaces and the systems behind them."
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(186, 197, 202)",
+      "rect": {
+        "h": 56,
+        "w": 416,
+        "x": 64,
+        "y": 598.96875
+      },
+      "text": "15+ years turning complex challenges into clear, usable web experiences."
+    }
+  ],
+  "viewport": {
+    "height": 800,
+    "width": 1280
+  }
+}

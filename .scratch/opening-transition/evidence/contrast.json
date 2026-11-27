@@ -1,0 +1,68 @@
+{
+  "method": "Sampled opaque text areas at the production start, composing the two scaled plates and authored overlays. Contact uses solid surfaces; bridge end uses solid ink. The block-width H1 container is excluded because its empty area is not text; the inline surname is measured and the first line is visually inspected. Transitional fades are visually inspected rather than treated as steady text.",
+  "viewport": {
+    "height": 800,
+    "width": 1280
+  },
+  "results": [
+    {
+      "text": "IVANSIACHOQUE",
+      "minimumContrast": 17.03,
+      "passesAA": true
+    },
+    {
+      "text": "IVANSIACHOQUE",
+      "minimumContrast": 17.03,
+      "passesAA": true
+    },
+    {
+      "text": "Skip animation",
+      "minimumContrast": 10.7,
+      "passesAA": true
+    },
+    {
+      "text": "Get in touch",
+      "minimumContrast": 14.52,
+      "passesAA": true
+    },
+    {
+      "text": "LinkedIn",
+      "minimumContrast": 17.03,
+      "passesAA": true
+    },
+    {
+      "text": "Senior Frontend Engineer · UI & Motion",
+      "minimumContrast": 6.85,
+      "passesAA": true
+    },
+    {
+      "text": "Siachoque",
+      "minimumContrast": 8.87,
+      "passesAA": true
+    },
+    {
+      "text": "I build thoughtful interfaces and the systems behind them.",
+      "minimumContrast": 6.36,
+      "passesAA": true
+    },
+    {
+      "text": "15+ years turning complex challenges into clear, usable web experiences.",
+      "minimumContrast": 8.48,
+      "passesAA": true
+    }
+  ],
+  "bridge": [
+    {
+      "color": "rgb(243,244,237)",
+      "contrast": 17.03
+    },
+    {
+      "color": "rgb(213,233,185)",
+      "contrast": 14.52
+    },
+    {
+      "color": "rgb(186,197,202)",
+      "contrast": 10.7
+    }
+  ]
+}

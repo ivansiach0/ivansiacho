@@ -1,0 +1,807 @@
+{
+  "start": {
+    "bridgeOpacity": "0",
+    "bridgeVisibility": "hidden",
+    "city": "matrix(1.1, 0, 0, 1.1, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 24
+      }
+    ],
+    "copyOpacity": "1",
+    "figure": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+    "focused": null,
+    "mode": "enhanced",
+    "nameOpacity": "1",
+    "pins": 1,
+    "scroll": 0,
+    "scrollWidth": 1280,
+    "veilOpacity": "0",
+    "width": 1280
+  },
+  "middle": {
+    "bridgeOpacity": "0",
+    "bridgeVisibility": "hidden",
+    "city": "matrix(1.055, 0, 0, 1.055, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 24
+      }
+    ],
+    "copyOpacity": "0",
+    "figure": "matrix(1.022, 0, 0, 1.022, 0, 0)",
+    "focused": null,
+    "mode": "enhanced",
+    "nameOpacity": "0.3333",
+    "pins": 1,
+    "scroll": 324,
+    "scrollWidth": 1280,
+    "veilOpacity": "0.1111",
+    "width": 1280
+  },
+  "skipFromMiddle": {
+    "bridgeOpacity": "1",
+    "bridgeVisibility": "visible",
+    "city": "matrix(1, 0, 0, 1, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 24
+      }
+    ],
+    "copyOpacity": "0",
+    "figure": "matrix(1, 0, 0, 1, 0, 0)",
+    "focused": "selected-experience",
+    "mode": "enhanced",
+    "nameOpacity": "0",
+    "pins": 1,
+    "scroll": 720,
+    "scrollWidth": 1280,
+    "veilOpacity": "1",
+    "width": 1280
+  },
+  "reversed": {
+    "bridgeOpacity": "0",
+    "bridgeVisibility": "hidden",
+    "city": "matrix(1.1, 0, 0, 1.1, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 24
+      }
+    ],
+    "copyOpacity": "1",
+    "figure": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+    "focused": null,
+    "mode": "enhanced",
+    "nameOpacity": "1",
+    "pins": 1,
+    "scroll": 0,
+    "scrollWidth": 1280,
+    "veilOpacity": "0",
+    "width": 1280
+  },
+  "keyboardSkip": {
+    "bridgeOpacity": "1",
+    "bridgeVisibility": "visible",
+    "city": "matrix(1, 0, 0, 1, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 24
+      }
+    ],
+    "copyOpacity": "0",
+    "figure": "matrix(1, 0, 0, 1, 0, 0)",
+    "focused": "selected-experience",
+    "mode": "enhanced",
+    "nameOpacity": "0",
+    "pins": 1,
+    "scroll": 720,
+    "scrollWidth": 1280,
+    "veilOpacity": "1",
+    "width": 1280
+  },
+  "reverseAfterKeyboard": {
+    "bridgeOpacity": "0",
+    "bridgeVisibility": "visible",
+    "city": "matrix(1.1, 0, 0, 1.1, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 24
+      }
+    ],
+    "copyOpacity": "1",
+    "figure": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+    "focused": "selected-experience",
+    "mode": "enhanced",
+    "nameOpacity": "1",
+    "pins": 1,
+    "scroll": 0,
+    "scrollWidth": 1280,
+    "veilOpacity": "0",
+    "width": 1280
+  },
+  "mobileResize": {
+    "bridgeOpacity": "0",
+    "bridgeVisibility": "visible",
+    "city": "matrix(1.0683, 0, 0, 1.0683, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 72
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 72
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 128
+      }
+    ],
+    "copyOpacity": "0.1322",
+    "figure": "matrix(1.0273, 0, 0, 1.0273, 0, 0)",
+    "focused": null,
+    "mode": "enhanced",
+    "nameOpacity": "0.7769",
+    "pins": 1,
+    "scroll": 174,
+    "scrollWidth": 390,
+    "veilOpacity": "0",
+    "width": 390
+  },
+  "mobileSkip": {
+    "bridgeOpacity": "1",
+    "bridgeVisibility": "visible",
+    "city": "matrix(1, 0, 0, 1, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 72
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 72
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 128
+      }
+    ],
+    "copyOpacity": "0",
+    "figure": "matrix(1, 0, 0, 1, 0, 0)",
+    "focused": "selected-experience",
+    "mode": "enhanced",
+    "nameOpacity": "0",
+    "pins": 1,
+    "scroll": 549,
+    "scrollWidth": 390,
+    "veilOpacity": "1",
+    "width": 390
+  },
+  "reducedDynamic": {
+    "bridgeOpacity": "1",
+    "bridgeVisibility": "visible",
+    "city": "none",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 24
+      }
+    ],
+    "copyOpacity": "1",
+    "figure": "none",
+    "focused": null,
+    "mode": "static",
+    "nameOpacity": "1",
+    "pins": 0,
+    "scroll": 388,
+    "scrollWidth": 1280,
+    "veilOpacity": "0",
+    "width": 1280
+  },
+  "reducedSkip": {
+    "bridgeOpacity": "1",
+    "bridgeVisibility": "visible",
+    "city": "none",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 24
+      }
+    ],
+    "copyOpacity": "1",
+    "figure": "none",
+    "focused": "selected-experience",
+    "mode": "static",
+    "nameOpacity": "1",
+    "pins": 0,
+    "scroll": 771,
+    "scrollWidth": 1280,
+    "veilOpacity": "0",
+    "width": 1280
+  },
+  "normalRestored": {
+    "bridgeOpacity": "0",
+    "bridgeVisibility": "visible",
+    "city": "matrix(1.0915, 0, 0, 1.0915, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 24
+      }
+    ],
+    "copyOpacity": "1",
+    "figure": "matrix(1.0366, 0, 0, 1.0366, 0, 0)",
+    "focused": null,
+    "mode": "enhanced",
+    "nameOpacity": "1",
+    "pins": 1,
+    "scroll": 68,
+    "scrollWidth": 1280,
+    "veilOpacity": "0",
+    "width": 1280
+  },
+  "shortLandscape": {
+    "bridgeOpacity": "1",
+    "bridgeVisibility": "visible",
+    "city": "none",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 24
+      }
+    ],
+    "copyOpacity": "1",
+    "figure": "none",
+    "focused": "selected-experience",
+    "mode": "static",
+    "nameOpacity": "1",
+    "pins": 0,
+    "scroll": 572,
+    "scrollWidth": 844,
+    "veilOpacity": "0",
+    "width": 844
+  },
+  "text200": {
+    "bridgeOpacity": "1",
+    "bridgeVisibility": "visible",
+    "city": "none",
+    "contacts": [
+      {
+        "height": 128.390625,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 237
+      },
+      {
+        "height": 134,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 381.390625
+      },
+      {
+        "height": 96,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 531.390625
+      }
+    ],
+    "copyOpacity": "1",
+    "figure": "none",
+    "focused": null,
+    "mode": "static",
+    "nameOpacity": "1",
+    "pins": 0,
+    "scroll": 0,
+    "scrollWidth": 320,
+    "veilOpacity": "0",
+    "width": 320
+  },
+  "reducedInitial": {
+    "bridgeOpacity": "1",
+    "bridgeVisibility": "visible",
+    "city": "none",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 24
+      }
+    ],
+    "copyOpacity": "1",
+    "figure": "none",
+    "focused": null,
+    "mode": "static",
+    "nameOpacity": "1",
+    "pins": 0,
+    "scroll": 0,
+    "scrollWidth": 844,
+    "veilOpacity": "0",
+    "width": 844
+  },
+  "imageFailure": {
+    "bridgeOpacity": "0",
+    "bridgeVisibility": "visible",
+    "city": "matrix(1.1, 0, 0, 1.1, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 24
+      }
+    ],
+    "copyOpacity": "1",
+    "figure": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+    "focused": null,
+    "mode": "enhanced",
+    "nameOpacity": "1",
+    "pins": 1,
+    "scroll": 0,
+    "scrollWidth": 1280,
+    "veilOpacity": "0",
+    "width": 1280
+  },
+  "mobileStart": {
+    "bridgeOpacity": "0",
+    "bridgeVisibility": "visible",
+    "city": "matrix(1.0832, 0, 0, 1.0832, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 72
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 72
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 72
+      }
+    ],
+    "copyOpacity": "0.7297",
+    "figure": "matrix(1.0333, 0, 0, 1.0333, 0, 0)",
+    "focused": null,
+    "mode": "enhanced",
+    "nameOpacity": "1",
+    "pins": 1,
+    "scroll": 92,
+    "scrollWidth": 390,
+    "veilOpacity": "0",
+    "width": 390
+  },
+  "mobileMiddle": {
+    "bridgeOpacity": "0",
+    "bridgeVisibility": "visible",
+    "city": "matrix(1.0372, 0, 0, 1.0372, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 72
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 72
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 72
+      }
+    ],
+    "copyOpacity": "0",
+    "figure": "matrix(1.0149, 0, 0, 1.0149, 0, 0)",
+    "focused": null,
+    "mode": "enhanced",
+    "nameOpacity": "0",
+    "pins": 1,
+    "scroll": 345,
+    "scrollWidth": 390,
+    "veilOpacity": "0.5076",
+    "width": 390
+  },
+  "productionStart": {
+    "bridgeOpacity": "0",
+    "bridgeVisibility": "visible",
+    "city": "matrix(1.1, 0, 0, 1.1, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 24
+      }
+    ],
+    "copyOpacity": "1",
+    "figure": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+    "focused": null,
+    "mode": "enhanced",
+    "nameOpacity": "1",
+    "pins": 1,
+    "scroll": 0,
+    "scrollWidth": 1280,
+    "veilOpacity": "0",
+    "width": 1280
+  },
+  "productionMiddle": {
+    "bridgeOpacity": "0",
+    "bridgeVisibility": "visible",
+    "city": "matrix(1.055, 0, 0, 1.055, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 24
+      }
+    ],
+    "copyOpacity": "0",
+    "figure": "matrix(1.022, 0, 0, 1.022, 0, 0)",
+    "focused": null,
+    "mode": "enhanced",
+    "nameOpacity": "0.3333",
+    "pins": 1,
+    "scroll": 360,
+    "scrollWidth": 1280,
+    "veilOpacity": "0.1111",
+    "width": 1280
+  },
+  "productionEnd": {
+    "bridgeOpacity": "1",
+    "bridgeVisibility": "visible",
+    "city": "matrix(1, 0, 0, 1, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 24
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 24
+      }
+    ],
+    "copyOpacity": "0",
+    "figure": "matrix(1, 0, 0, 1, 0, 0)",
+    "focused": "selected-experience",
+    "mode": "enhanced",
+    "nameOpacity": "0",
+    "pins": 1,
+    "scroll": 800,
+    "scrollWidth": 1280,
+    "veilOpacity": "1",
+    "width": 1280
+  },
+  "productionMobileStart": {
+    "bridgeOpacity": "0",
+    "bridgeVisibility": "visible",
+    "city": "matrix(1.1, 0, 0, 1.1, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 72
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 72
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 128
+      }
+    ],
+    "copyOpacity": "1",
+    "figure": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+    "focused": null,
+    "mode": "enhanced",
+    "nameOpacity": "1",
+    "pins": 1,
+    "scroll": 0,
+    "scrollWidth": 320,
+    "veilOpacity": "0",
+    "width": 320
+  },
+  "productionMobileSkip": {
+    "bridgeOpacity": "1",
+    "bridgeVisibility": "visible",
+    "city": "matrix(1, 0, 0, 1, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 72
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 72
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 128
+      }
+    ],
+    "copyOpacity": "0",
+    "figure": "matrix(1, 0, 0, 1, 0, 0)",
+    "focused": "selected-experience",
+    "mode": "enhanced",
+    "nameOpacity": "0",
+    "pins": 1,
+    "scroll": 481,
+    "scrollWidth": 320,
+    "veilOpacity": "1",
+    "width": 320
+  },
+  "productionMobileReverse": {
+    "bridgeOpacity": "0",
+    "bridgeVisibility": "visible",
+    "city": "matrix(1.1, 0, 0, 1.1, 0, 0)",
+    "contacts": [
+      {
+        "height": 48,
+        "href": "#selected-experience",
+        "text": "Skip animation",
+        "y": 72
+      },
+      {
+        "height": 48,
+        "href": "mailto:ivanfernandosia@gmail.com",
+        "text": "Get in touch",
+        "y": 72
+      },
+      {
+        "height": 48,
+        "href": "https://www.linkedin.com/in/ivan-siachoque-17491247/",
+        "text": "LinkedIn",
+        "y": 128
+      }
+    ],
+    "copyOpacity": "1",
+    "figure": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+    "focused": "selected-experience",
+    "mode": "enhanced",
+    "nameOpacity": "1",
+    "pins": 1,
+    "scroll": 0,
+    "scrollWidth": 320,
+    "veilOpacity": "0",
+    "width": 320
+  }
+}

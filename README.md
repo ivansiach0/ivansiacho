@@ -1,7 +1,8 @@
 # Ivan Siachoque — Personal Portfolio
 
 A personal portfolio built incrementally, one approved feature at a time.
-The first feature is an accessible, static Opening in English.
+The Opening introduces Ivan in English and transitions into a concise Experience
+bridge through native scrolling. City and figure layers move independently.
 
 ## Local development
 
@@ -13,8 +14,10 @@ npm run dev
 ```
 
 Open the local URL printed by Vite. The app uses React, Vite, TypeScript, and
-vanilla-extract. GSAP is installed for the agreed stack but is not loaded or
-used by this static feature.
+vanilla-extract. GSAP and ScrollTrigger enhance the Opening when its content fits
+the viewport and reduced motion is not preferred. Otherwise both sections remain
+in static document flow. Skip animation jumps to the bridge and moves focus there;
+email and LinkedIn remain outside the fading content.
 
 The development server uses port 5173 and fails if that port is occupied.
 Stop the process listening on that port on macOS or Linux:
@@ -31,13 +34,14 @@ npm run build
 npm run preview
 ```
 
-Browser verification is documented alongside the feature specification in
-`.scratch/opening/`. It covers responsive layout, keyboard access, contrast,
-link destinations, text reflow, and the image-failure fallback. No static-markup
-unit tests are added.
+Browser verification for the original static Opening is recorded in
+`.scratch/opening/`. Transition verification is recorded in
+`.scratch/opening-transition/`, covering scroll states, reversal, skip/focus,
+contact access, reduced motion, responsive mode changes, text reflow, and image
+failure. Checks target rendered behavior rather than static-markup unit tests.
 
 ## Workflow
 
 Read `AGENTS.md` for the feature workflow, language rules, and documentation
-pointers. The current specification is `.scratch/opening/spec.md`.
+pointers. The current specification is `.scratch/opening-transition/spec.md`.
 No external deployment is configured.
