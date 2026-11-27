@@ -27,4 +27,11 @@ contact links outside fading content. No generic scene engine is introduced.
 The [validation record](validation.md) contains browser observations, build
 results, resolved implementation findings, and explicit environment limitations.
 The rendered initial, intermediate, final, reverse, skip, and fallback states
-have been checked. The implementation is ready for its two-axis review.
+have been checked. Implementation commit: `dc287c9`. Reviewed follow-up: `19d00c8`.
+
+## Review
+
+The [two-axis review](review.md) is complete. Standards reported zero findings.
+Spec identified one P2 source-level focus issue, which was corrected and reviewed
+again; zero unresolved findings remain. PR publication is the remaining ticket
+step. No subsequent feature is in progress.

@@ -2,9 +2,8 @@
 
 ## Current stage
 
-`grill-with-docs` is complete. The owner approved the visual sequence and
-browser-level verification boundary. The specification is published; the ticket
-breakdown awaits approval before implementation.
+Design, specification, ticket approval, implementation, browser validation, and
+two-axis review are complete. The remaining ticket step is GitHub PR publication.
 
 ## Agreed decisions
 
@@ -32,7 +31,7 @@ The current illustration combines the city and conceptual figure in one image.
 The owner requested separate, superimposable assets. Prepare a clean city plate
 with the occluded environment reconstructed and a transparent figure layer,
 preserving the original framing and keeping the existing published asset intact.
-The outputs remain design artifacts until the motion feature is approved.
+The approved study is retained as source/provenance for the production plates.
 
 The two assets have now been generated and inspected. They share a 1672 by 941
 canvas; the figure has genuine transparency. A browser composition verified
@@ -42,5 +41,5 @@ were changed during this artwork study.
 
 ## Design frontier
 
-No unresolved design questions remain for specification synthesis. The next
-approval is the ticket breakdown required by `to-tickets`.
+No unresolved design questions remain. The approved ticket is implemented; see
+the validation and review records.

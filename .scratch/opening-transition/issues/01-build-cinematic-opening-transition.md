@@ -24,7 +24,7 @@ was delivered and merged through PR #1.
 - [x] Preference and viewport changes clean up or rebuild the enhancement without duplicate spacers, hidden controls, or focus loss.
 - [x] Keyboard, text reflow, contrast, image failure, and responsive reachability meet the specification.
 - [x] TypeScript and production build pass; rendered start, middle, end, reverse, skip, and fallback behaviors are verified and documented.
-- [ ] Standards and Spec reviews are completed against the recorded base; actionable findings are resolved.
+- [x] Standards and Spec reviews are completed against the recorded base; actionable findings are resolved.
 - [ ] The ticket branch is pushed and a PR is opened against main, with its URL recorded locally.
 
 ## Comments

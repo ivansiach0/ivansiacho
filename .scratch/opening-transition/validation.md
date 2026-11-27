@@ -96,7 +96,8 @@ focused contact visible in the targeted 844-by-200 check, the exclusion would
 prevent correction in a browser that retained an offscreen scroll position.
 Restrict the exclusion to sticky headers; normal-flow contacts now receive the
 same bounds correction as other focused content, with a scroll margin for the
-focus outline. Recheck the short-viewport contact case after the change.
+focus outline. The final short-viewport check retained the focused link at
+y24–72 in a 200px viewport. See [focus evidence](evidence/contact-flow-focus.json).
 
 The final UI also removes an additional scroll hint and restores the original
 footer wording, retaining only the three approved additions to visible copy.
