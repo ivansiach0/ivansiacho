@@ -26,3 +26,14 @@ and Spec reported zero findings. Ticket 01 is done. No later feature has started
 
 Temporary development and production-preview servers are stopped after validation.
 Use the README commands to start the application for a new local review session.
+
+## GitHub publication
+
+- Repository: https://github.com/ivansiach0/ivansiacho
+- Base branch: `main`, starting at the original workflow baseline.
+- Ticket branch: `feat/opening-01-static-opening`.
+- Initial upload summary commit: `69f9cfb`.
+- Pull request: https://github.com/ivansiach0/ivansiacho/pull/1
+- The base and ticket branches were pushed using ordinary Git pushes.
+- The PR remains open; no merge was performed.
+- `npm run build` passed again after the port and stop-command changes.

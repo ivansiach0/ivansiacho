@@ -11,6 +11,12 @@ the agreed React, Vite, TypeScript, GSAP, and vanilla-extract stack.
 
 **Status:** done
 
+**Branch:** `feat/opening-01-static-opening`
+
+**Pull request:** https://github.com/ivansiach0/ivansiacho/pull/1
+
+**Publication:** Branch pushed; pull request open against `main`.
+
 - [x] The application runs locally, passes TypeScript checking, and builds for production.
 - [x] The Opening displays the exact approved name, professional headline, introduction, and supporting copy in English.
 - [x] Get in touch and LinkedIn are real links with the approved destinations.
