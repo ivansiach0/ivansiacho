@@ -30,3 +30,10 @@ Work on one feature at a time through this sequence:
 
 Complete the current feature's implementation and review before starting another.
 Treat the approved portfolio direction as context; scope each feature separately.
+
+### Ticket branches and pull requests
+
+Use one branch and one GitHub pull request per ticket. Before implementing a
+ticket, create its branch from the current base branch and record the review
+baseline. Follow the branch, publication, and PR conventions in
+[the tracker documentation](docs/agents/issue-tracker.md).
