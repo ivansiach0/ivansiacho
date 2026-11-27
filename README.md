@@ -16,6 +16,13 @@ Open the local URL printed by Vite. The app uses React, Vite, TypeScript, and
 vanilla-extract. GSAP is installed for the agreed stack but is not loaded or
 used by this static feature.
 
+The development server uses port 5173 and fails if that port is occupied.
+Stop the process listening on that port on macOS or Linux:
+
+```sh
+npm run stop
+```
+
 ## Validation
 
 ```sh
