@@ -1,0 +1,77 @@
+{
+  "method": "Sampled project artwork under text bounds at 1280x800, composited with the authored gradient and control surfaces. Conservative full text rectangles; excludes glyph rasterization.",
+  "results": [
+    {
+      "text": "IVANSIACHOQUE",
+      "fontSize": "13px",
+      "minimumContrast": 16.89,
+      "passesNormalTextAA": true
+    },
+    {
+      "text": "IVANSIACHOQUE",
+      "fontSize": "13px",
+      "minimumContrast": 16.9,
+      "passesNormalTextAA": true
+    },
+    {
+      "text": "A considered approach.From code to interface.",
+      "fontSize": "14px",
+      "minimumContrast": 7.91,
+      "passesNormalTextAA": true
+    },
+    {
+      "text": "Senior Frontend Engineer · UI & Motion",
+      "fontSize": "14px",
+      "minimumContrast": 14.22,
+      "passesNormalTextAA": true
+    },
+    {
+      "text": "Ivan Siachoque",
+      "fontSize": "124.16px",
+      "minimumContrast": 8.09,
+      "passesNormalTextAA": true
+    },
+    {
+      "text": "Siachoque",
+      "fontSize": "124.16px",
+      "minimumContrast": 6.55,
+      "passesNormalTextAA": true
+    },
+    {
+      "text": "I build thoughtful interfaces and the systems behind them.",
+      "fontSize": "26.24px",
+      "minimumContrast": 13.63,
+      "passesNormalTextAA": true
+    },
+    {
+      "text": "15+ years turning complex challenges into clear, usable web experiences.",
+      "fontSize": "16px",
+      "minimumContrast": 7.12,
+      "passesNormalTextAA": true
+    },
+    {
+      "text": "Get in touch",
+      "fontSize": "15px",
+      "minimumContrast": 14.52,
+      "passesNormalTextAA": true
+    },
+    {
+      "text": "LinkedIn",
+      "fontSize": "15px",
+      "minimumContrast": 16.63,
+      "passesNormalTextAA": true
+    },
+    {
+      "text": "FRONTEND ENGINEERING. INTERFACE CRAFT.",
+      "fontSize": "12px",
+      "minimumContrast": 10.59,
+      "passesNormalTextAA": true
+    },
+    {
+      "text": "Original city illustration · Conceptual portrait, not a likeness.",
+      "fontSize": "12px",
+      "minimumContrast": 9.68,
+      "passesNormalTextAA": true
+    }
+  ]
+}

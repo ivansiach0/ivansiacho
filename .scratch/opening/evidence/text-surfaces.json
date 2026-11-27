@@ -1,0 +1,146 @@
+[
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "rgb(243, 244, 237)",
+    "fontSize": "13px",
+    "rect": {
+      "h": 40,
+      "w": 145.6015625,
+      "x": 64,
+      "y": 29.1953125
+    },
+    "text": "IVANSIACHOQUE"
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "rgb(243, 244, 237)",
+    "fontSize": "13px",
+    "rect": {
+      "h": 32.5,
+      "w": 91.6015625,
+      "x": 118,
+      "y": 32.9453125
+    },
+    "text": "IVANSIACHOQUE"
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "rgb(186, 197, 202)",
+    "fontSize": "14px",
+    "rect": {
+      "h": 43.390625,
+      "w": 147.109375,
+      "x": 1068.890625,
+      "y": 27.5
+    },
+    "text": "A considered approach.From code to interface."
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "rgb(213, 233, 185)",
+    "fontSize": "14px",
+    "rect": {
+      "h": 22.3984375,
+      "w": 269.859375,
+      "x": 64,
+      "y": 138.890625
+    },
+    "text": "Senior Frontend Engineer · UI & Motion"
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "rgb(243, 244, 237)",
+    "fontSize": "124.16px",
+    "rect": {
+      "h": 226.453125,
+      "w": 496.8203125,
+      "x": 57.171875,
+      "y": 185.2890625
+    },
+    "text": "Ivan Siachoque"
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "rgb(213, 233, 185)",
+    "fontSize": "124.16px",
+    "rect": {
+      "h": 141,
+      "w": 496.8203125,
+      "x": 57.171875,
+      "y": 283.765625
+    },
+    "text": "Siachoque"
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "rgb(243, 244, 237)",
+    "fontSize": "26.24px",
+    "rect": {
+      "h": 76.09375,
+      "w": 331.6953125,
+      "x": 64,
+      "y": 443.7421875
+    },
+    "text": "I build thoughtful interfaces and the systems behind them."
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "rgb(186, 197, 202)",
+    "fontSize": "16px",
+    "rect": {
+      "h": 56,
+      "w": 416,
+      "x": 64,
+      "y": 535.8359375
+    },
+    "text": "15+ years turning complex challenges into clear, usable web experiences."
+  },
+  {
+    "background": "rgb(213, 233, 185)",
+    "color": "rgb(10, 18, 26)",
+    "fontSize": "15px",
+    "rect": {
+      "h": 52,
+      "w": 140,
+      "x": 64,
+      "y": 623.8359375
+    },
+    "text": "Get in touch"
+  },
+  {
+    "background": "rgba(10, 18, 26, 0.8)",
+    "color": "rgb(243, 244, 237)",
+    "fontSize": "15px",
+    "rect": {
+      "h": 52,
+      "w": 140,
+      "x": 218,
+      "y": 623.8359375
+    },
+    "text": "LinkedIn"
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "rgb(186, 197, 202)",
+    "fontSize": "12px",
+    "rect": {
+      "h": 19.1953125,
+      "w": 314.3984375,
+      "x": 64,
+      "y": 756.8359375
+    },
+    "text": "FRONTEND ENGINEERING. INTERFACE CRAFT."
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "rgb(186, 197, 202)",
+    "fontSize": "12px",
+    "rect": {
+      "h": 19.1953125,
+      "w": 315.4765625,
+      "x": 900.5234375,
+      "y": 756.8359375
+    },
+    "text": "Original city illustration · Conceptual portrait, not a likeness."
+  }
+]
