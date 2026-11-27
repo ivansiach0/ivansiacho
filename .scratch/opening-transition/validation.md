@@ -84,9 +84,22 @@ framing before their independent transforms.
 
 - `npm run typecheck`: passed during implementation.
 - `npm run build`: passed, including the final TypeScript check.
-- Production output: approximately 117.53 KB gzipped JavaScript and 1.54 KB
+- Production output: approximately 117.48 KB gzipped JavaScript and 1.51 KB
   gzipped CSS, plus the two active artwork plates.
 - `git diff --check`: passed.
+
+## Review follow-up
+
+The Spec review identified an unconditional header-descendant exclusion in the
+focus visibility helper. Although this browser's native resize handling kept the
+focused contact visible in the targeted 844-by-200 check, the exclusion would
+prevent correction in a browser that retained an offscreen scroll position.
+Restrict the exclusion to sticky headers; normal-flow contacts now receive the
+same bounds correction as other focused content, with a scroll margin for the
+focus outline. Recheck the short-viewport contact case after the change.
+
+The final UI also removes an additional scroll hint and restores the original
+footer wording, retaining only the three approved additions to visible copy.
 
 ## Verification limits
 

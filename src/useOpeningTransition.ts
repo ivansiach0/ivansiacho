@@ -27,7 +27,8 @@ export function useOpeningTransition(page: RefObject<HTMLDivElement | null>) {
 
     const keepFocusedContentVisible = () => {
       const element = document.activeElement;
-      if (!(element instanceof HTMLElement) || !root.contains(element) || header.contains(element)) return;
+      if (!(element instanceof HTMLElement) || !root.contains(element)) return;
+      if (header.contains(element) && root.dataset.contact === 'sticky') return;
       if (bridge.contains(element) && Number(getComputedStyle(bridge).opacity) < 0.5) return;
       const bounds = element.getBoundingClientRect();
       const top = root.dataset.contact === 'sticky' ? header.getBoundingClientRect().bottom : 0;

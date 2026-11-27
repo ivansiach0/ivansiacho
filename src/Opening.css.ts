@@ -36,6 +36,7 @@ const contactLink = style({
   display: 'inline-flex', alignItems: 'center', justifyContent: 'center', padding: '.75rem 1rem',
   border: '1px solid transparent', borderRadius: '3px', fontSize: '.9375rem', lineHeight: 1.4,
   fontWeight: 600, textDecoration: 'none',
+  scrollMarginTop: 'var(--focus-offset, 1.5rem)',
   selectors: { '&:focus-visible': { outline: '3px solid #ffffff', outlineOffset: '5px' } },
   '@media': {
     [mobile]: { width: 'auto', padding: '.75rem' },
@@ -84,14 +85,12 @@ export const surname = style({ color: accent, fontFamily: 'Georgia, "Times New R
 export const introduction = style({ maxWidth: '35rem', fontSize: 'clamp(1.375rem, 2.05vw, 1.875rem)', lineHeight: 1.45, letterSpacing: '-.025em' });
 export const desktopBreak = style({ '@media': { [mobile]: { display: 'none' } } });
 export const experience = style({ maxWidth: '26rem', marginTop: '1rem', color: muted, fontSize: '1rem', lineHeight: 1.75 });
-export const scrollCue = style({ position: 'absolute', bottom: '1.5rem', left: gutter, color: muted, fontSize: '.8125rem', lineHeight: 1.6, letterSpacing: '.05em' });
 
 export const bridge = style({
   position: 'relative', display: 'flex', alignItems: 'center', minHeight: 'var(--scene-height, 80svh)', padding: `4rem ${gutter}`,
   selectors: { [`${page}[data-motion="enhanced"] &`]: { position: 'absolute', inset: 0, height: '100%', minHeight: 0, paddingTop: '2.5rem', paddingBottom: '2.5rem' } },
 });
 export const bridgeCopy = style({ width: '100%', maxWidth: '56rem', minWidth: 0 });
-export const bridgeLabel = style({ color: muted, fontSize: '.8125rem', lineHeight: 1.6, letterSpacing: '.1em', marginBottom: '1.75rem' });
 export const bridgeHeading = style({
   fontSize: 'clamp(3rem, 7.5vw, 7rem)', fontWeight: 400, lineHeight: 1.05, letterSpacing: '-.055em', overflowWrap: 'anywhere',
   scrollMarginTop: 'var(--focus-offset, 1.5rem)',

@@ -36,11 +36,9 @@ export function Opening() {
               <p className={styles.introduction} data-opening-copy>I build thoughtful interfaces<br className={styles.desktopBreak} /> and the systems behind them.</p>
               <p className={styles.experience} data-opening-copy>15+ years turning complex challenges into clear, usable web experiences.</p>
             </div>
-            <span className={styles.scrollCue} data-opening-copy aria-hidden="true">Scroll to explore</span>
           </section>
           <section className={styles.bridge} aria-labelledby="selected-experience" data-experience-bridge>
             <div className={styles.bridgeCopy} data-bridge-content>
-              <p className={styles.bridgeLabel}>FRONTEND ENGINEERING. INTERFACE CRAFT.</p>
               <h2 id="selected-experience" className={styles.bridgeHeading} tabIndex={-1}>Selected <span className={styles.bridgeEmphasis}>experience</span></h2>
               <p className={styles.bridgeDescription}>Building products at CrowdComfort. Crafting global experiences at Huge.</p>
               <div className={styles.bridgeRule} aria-hidden="true" />
@@ -49,7 +47,7 @@ export function Opening() {
         </div>
       </main>
       <footer className={styles.footer}>
-        <span className={styles.footerLabel}>IVAN SIACHOQUE · FRONTEND &amp; UI</span>
+        <span className={styles.footerLabel}>FRONTEND ENGINEERING. INTERFACE CRAFT.</span>
         <span className={styles.artworkNote}>Original city illustration · Conceptual portrait, not a likeness.</span>
       </footer>
     </div>
