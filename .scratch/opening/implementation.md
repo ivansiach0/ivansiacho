@@ -19,4 +19,10 @@ The rendered Opening in a real browser, TypeScript checking, and a production
 build. No markup-mirroring unit suite is introduced for this static feature.
 
 Browser and build observations are recorded in [validation](validation.md).
-The implementation is ready for the two-axis code review against the baseline above.
+Implementation commit: `b5c6029`.
+
+The [two-axis review](review.md) is complete: Standards reported zero findings
+and Spec reported zero findings. Ticket 01 is done. No later feature has started.
+
+Temporary development and production-preview servers are stopped after validation.
+Use the README commands to start the application for a new local review session.

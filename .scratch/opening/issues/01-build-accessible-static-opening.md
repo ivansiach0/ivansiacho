@@ -9,7 +9,7 @@ the agreed React, Vite, TypeScript, GSAP, and vanilla-extract stack.
 
 **Blocked by:** None (can start immediately).
 
-**Status:** in-review
+**Status:** done
 
 - [x] The application runs locally, passes TypeScript checking, and builds for production.
 - [x] The Opening displays the exact approved name, professional headline, introduction, and supporting copy in English.
@@ -20,10 +20,14 @@ the agreed React, Vite, TypeScript, GSAP, and vanilla-extract stack.
 - [x] Text reflow, image-failure fallback, and reduced-motion behavior are verified in the browser.
 - [x] No animation, unfinished navigation, additional chapters, CV download, or external deployment is introduced.
 - [x] Browser findings and verification limits are recorded.
-- [ ] Standards and specification reviews are completed against a recorded Git baseline, and actionable findings are resolved.
+- [x] Standards and specification reviews are completed against a recorded Git baseline, and actionable findings are resolved.
 
 ## Comments
 
 The owner approved a single end-to-end ticket, without blockers, in the chat.
 Browser-level validation and production build checks are the agreed boundaries;
 unit tests that mirror static markup are outside this ticket.
+
+Implementation committed as `b5c6029`. Independent Standards and Spec reviews
+reported zero actionable findings; see [review](../review.md) and
+[validation](../validation.md). The current feature is complete.
