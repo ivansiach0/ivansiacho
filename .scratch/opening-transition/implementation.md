@@ -33,5 +33,17 @@ have been checked. Implementation commit: `dc287c9`. Reviewed follow-up: `19d00c
 
 The [two-axis review](review.md) is complete. Standards reported zero findings.
 Spec identified one P2 source-level focus issue, which was corrected and reviewed
-again; zero unresolved findings remain. PR publication is the remaining ticket
-step. No subsequent feature is in progress.
+again; zero unresolved findings remain. Ticket 01 is complete. No subsequent
+feature is in progress.
+
+## GitHub publication
+
+- Repository: https://github.com/ivansiach0/ivansiacho
+- Branch: `feat/opening-transition-01-cinematic-scroll`.
+- PR: https://github.com/ivansiach0/ivansiacho/pull/2
+- Base: `main`. The PR is open and was not merged automatically.
+- Publication used ordinary pushes; an initial HTTP transport failure was resolved
+  with a per-command HTTP/1.1 buffer adjustment, without rewriting history or
+  changing permanent Git configuration.
+- Temporary owned development/preview servers were stopped after validation;
+  the owner's standard development server was not stopped.

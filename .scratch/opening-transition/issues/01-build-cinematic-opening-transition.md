@@ -11,9 +11,13 @@ the content cannot fit, together with browser evidence and two-axis review.
 **Blocked by:** None (can start immediately). The prerequisite static Opening
 was delivered and merged through PR #1.
 
-**Status:** in-review
+**Status:** done
 
 **Branch:** `feat/opening-transition-01-cinematic-scroll`
+
+**Pull request:** https://github.com/ivansiach0/ivansiacho/pull/2
+
+**Publication:** Branch pushed; PR open against `main`.
 
 - [x] Independent, aligned city and transparent figure layers produce the approved depth effect without gaps or a duplicated figure.
 - [x] Professional copy exits first, the name exits later, and a dark fade reveals the exact approved Experience bridge content.
@@ -25,7 +29,7 @@ was delivered and merged through PR #1.
 - [x] Keyboard, text reflow, contrast, image failure, and responsive reachability meet the specification.
 - [x] TypeScript and production build pass; rendered start, middle, end, reverse, skip, and fallback behaviors are verified and documented.
 - [x] Standards and Spec reviews are completed against the recorded base; actionable findings are resolved.
-- [ ] The ticket branch is pushed and a PR is opened against main, with its URL recorded locally.
+- [x] The ticket branch is pushed and a PR is opened against main, with its URL recorded locally.
 
 ## Comments
 
@@ -33,3 +37,8 @@ The owner approved one complete ticket without active blockers. The rendered
 page is the agreed verification boundary; implementation details are not test
 contracts. The separated artwork study was explicitly requested and approved
 during design.
+
+Implementation and correction commits: `dc287c9` and `19d00c8`. Standards review
+reported zero findings; the Spec review's one P2 finding is resolved. See the
+[review](../review.md) and [validation](../validation.md) records. PR #2 remains
+open; no merge was performed.

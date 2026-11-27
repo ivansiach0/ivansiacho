@@ -2,8 +2,9 @@
 
 ## Current stage
 
-Design, specification, ticket approval, implementation, browser validation, and
-two-axis review are complete. The remaining ticket step is GitHub PR publication.
+Design, specification, ticket approval, implementation, browser validation,
+two-axis review, and GitHub PR publication are complete. Ticket 01 is done and
+PR #2 is open against main.
 
 ## Agreed decisions
 
