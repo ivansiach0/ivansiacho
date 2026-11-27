@@ -39,3 +39,17 @@ _Avoid_: Client screenshot, production interface
 An illustrated representation created for the portfolio's visual identity,
 without claiming photographic resemblance to Ivan.
 _Avoid_: Photograph, verified likeness
+
+**Experience bridge**:
+The editorial panel headed "Selected experience" that introduces Ivan's
+CrowdComfort and Huge work before the detailed professional chapters.
+_Avoid_: Case study, professional chapter
+
+**Opening transition**:
+The scroll-linked visual progression from the Opening to the Experience bridge.
+_Avoid_: Loading sequence, automatic intro
+
+**Skip animation**:
+The visitor action that goes directly to the Experience bridge without requiring
+the Opening transition's animated progression.
+_Avoid_: Skip content, skip portfolio

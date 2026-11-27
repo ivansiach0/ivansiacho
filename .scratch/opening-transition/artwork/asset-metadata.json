@@ -1,0 +1,21 @@
+{
+  "city": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false
+  },
+  "figure": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": true,
+    "transparentPixels": 1451947,
+    "visiblePixels": 117231,
+    "visibleBounds": {
+      "minX": 1387,
+      "minY": 344,
+      "maxX": 1671,
+      "maxY": 940
+    }
+  },
+  "matchingCanvas": true
+}

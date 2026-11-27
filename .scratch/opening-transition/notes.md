@@ -1,0 +1,46 @@
+# Opening transition design notes
+
+## Current stage
+
+`grill-with-docs` is complete. The owner approved the visual sequence and
+browser-level verification boundary. The specification is published; the ticket
+breakdown awaits approval before implementation.
+
+## Agreed decisions
+
+- The transition leads from the Opening to an Experience bridge containing:
+  - Heading: "Selected experience".
+  - Copy: "Building products at CrowdComfort. Crafting global experiences at Huge."
+- Provide a keyboard-accessible "Skip animation" action that goes directly to
+  the Experience bridge and moves focus to its destination.
+- Keep email and LinkedIn visible in a discreet contact area during the transition.
+- Use normal document flow when a short viewport or enlarged text prevents the
+  Opening from fitting completely.
+- With reduced motion, show the Opening and Experience bridge statically in
+  reading order.
+- The city zooms out gently; the figure zooms out less, providing depth. The
+  professional copy fades first, the name persists slightly longer, and a dark
+  fade introduces the Experience bridge.
+- Use approximately one additional viewport of scroll on desktop and a shorter
+  mobile range. Scrolling upward reverses the sequence.
+- Verify start, midpoint, end, reverse scrolling, keyboard skip, persistent
+  contact, reduced motion, viewport changes, TypeScript, and the production build.
+
+## Artwork exploration requested by the owner
+
+The current illustration combines the city and conceptual figure in one image.
+The owner requested separate, superimposable assets. Prepare a clean city plate
+with the occluded environment reconstructed and a transparent figure layer,
+preserving the original framing and keeping the existing published asset intact.
+The outputs remain design artifacts until the motion feature is approved.
+
+The two assets have now been generated and inspected. They share a 1672 by 941
+canvas; the figure has genuine transparency. A browser composition verified
+matching layer rectangles and visual alignment. See `artwork/README.md` for the
+edit prompts, metadata, and preview. No application code or published assets
+were changed during this artwork study.
+
+## Design frontier
+
+No unresolved design questions remain for specification synthesis. The next
+approval is the ticket breakdown required by `to-tickets`.
